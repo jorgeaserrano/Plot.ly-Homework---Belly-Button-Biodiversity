@@ -42,7 +42,7 @@ Belly Button Biodiveristy Analysis used an interactive dashboard to explore the 
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/demographic info.png)
+![hw](Images/demographic.png)
 
 6. Update all of the plots any time that a new sample is selected.
 
