@@ -4,7 +4,7 @@ Belly Button Biodiversity Dashboard Analysis
 
 Data Visualization Dashboard
 
-The Belly Button Analysis dashboard is available for preview at http://192.168.1.103:5500/
+The Belly Button Analysis dashboard is available for preview at file:///Users/jorgeaserrano/Desktop/plot.ly%20homework/index.html
 
 Belly Button Biodiveristy Analysis used an interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
