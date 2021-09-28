@@ -9,7 +9,6 @@ The Belly Button Analysis dashboard is available for preview at http://192.168.1
 Belly Button Biodiveristy Analysis used an interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
 
-
 ## Step 1: Plotly
 
 1. Use the D3 library to read in `samples.json`.
@@ -41,6 +40,8 @@ Belly Button Biodiveristy Analysis used an interactive dashboard to explore the 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 ![hw](Images/demographic.png)
+
+
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
